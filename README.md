@@ -1,5 +1,6 @@
 # Biblioteca
 
+É um sistema de bibloteca 
 usamos o java  
 asumos SQL bando de dados 
 
