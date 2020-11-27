@@ -18,7 +18,6 @@ usamos computaçao grafica
  
  packge sistema (class main)
  
- nao conseguimos colocar o video youtube 
   
   qualquer duvida entre em contato com nos 
   
