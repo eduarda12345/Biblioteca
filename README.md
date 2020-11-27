@@ -18,3 +18,11 @@ usamos computaçao grafica
  
  packge sistema (class main)
  
+ nao consehuimos colocar o video youtube 
+  
+  qualquer duvida entre em contato com nos 
+  
+KAUANA CAVALHEIRO 1118705@imed.edu.br 
+
+EDUARDA L. Bresolin 1117967@imed.edu.br
+
