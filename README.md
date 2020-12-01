@@ -25,4 +25,6 @@ KAUANA CAVALHEIRO 1118705@imed.edu.br
 
 EDUARDA L. Bresolin 1117967@imed.edu.br
 
+ou Whats
+
 https://www.youtube.com/watch?v=UsOFg53Dm3s
